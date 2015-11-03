@@ -5,3 +5,4 @@
 - [ ] Shnitzel
 - [ ] Reading
 - [ ] Blue
+- [ ] Ford CMax
